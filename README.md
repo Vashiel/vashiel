@@ -1,16 +1,24 @@
-### Hi there 👋
+<div align="center">
+  <h1>Hi there, I'm Vashiel 👋</h1>
+  <p>Python Developer | Kodi Addon Creator</p>
+</div>
 
-<!--
-**Vashiel/vashiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech Stack & Ecosystem
 
-Here are some ideas to get you started:
+- **Language:** Python
+- **Platform:** Kodi (Nexus, Omega)
+- **Specialty:** Addon Development, Repository Maintenance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Highlighted Project
+
+- **[repository.adulthideout](https://github.com/Vashiel/repository.adulthideout):** Kodi addon repository with active releases for Omega and Nexus.
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vashiel&show_icons=true&theme=transparent&hide_border=true" alt="Vashiel's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vashiel&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+</p>
