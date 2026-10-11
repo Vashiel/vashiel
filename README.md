@@ -1,24 +1,14 @@
-<div align="center">
-  <h1>Hi there, I'm Vashiel 👋</h1>
-  <p>Python Developer | Kodi Addon Creator</p>
-</div>
+# Hi, I'm Vashiel 👋
 
-## 🛠️ Tech Stack & Ecosystem
+I'm a trained **IT systems and electronics technician**, with a background in computer hardware, networking, installation and troubleshooting. I work in corporate IT and develop independent software projects in my spare time.
 
-- **Language:** Python
-- **Platform:** Kodi (Nexus, Omega)
-- **Specialty:** Addon Development, Repository Maintenance
+My current focus is **emulator development and multimedia software**, combining an interest in classic hardware with modern desktop and Android applications.
 
-## 🚀 Highlighted Project
+### Current projects
 
-- **[repository.adulthideout](https://github.com/Vashiel/repository.adulthideout):** Kodi addon repository with active releases for Omega and Nexus.
+- **OceanBlast** — one of my main development projects.
+- **Famiko (ファミコ)** — an independent Super Famicom / SNES emulator with a C++ core and Windows and Android frontends. Currently developed in a private repository.
+- **Additional emulator projects** — under active development and not yet ready for release.
+- **A media player for Windows and Android** — currently in private development.
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vashiel&show_icons=true&theme=transparent&hide_border=true" alt="Vashiel's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vashiel&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-</p>
+I care about understanding how systems work, building independent implementations, and documenting both progress and remaining limitations.
